@@ -1,5 +1,5 @@
 <?php
-
+namespace src;
 class UserValidator
 {
     public function validateEmail(string $email): bool
